@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=200&section=header&text=Razvan&fontSize=80&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20CS%20Student%20%7C%20Incoming%20Amazon%20SDE%20Intern&descAlignY=58&descSize=16&descColor=d8b4fe" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E063A,55:3B0764,100:581C87&amp;height=200&amp;section=header&amp;text=Razvan&amp;font=Montserrat&amp;fontFace=Montserrat&amp;fontSize=80&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Software%20Engineer%20%7C%20CS%20Student%20%7C%20Incoming%20Amazon%20SDE%20Intern&amp;descAlignY=58&amp;descSize=16&amp;descColor=E9D5FF" width="100%" alt=""/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=760&lines=Full-Stack+Developer;Backend+Systems+%26+Cloud-Focused+Engineer;Incoming+Amazon+SDE+Intern;Former+Software+Engineering+Intern+%40+Ooneex;Building+real-time+apps+with+Bun%2C+Hono%2C+and+Postgres)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&amp;weight=600&amp;size=22&amp;pause=1000&amp;color=A855F7&amp;center=true&amp;vCenter=true&amp;width=760&amp;lines=Full-Stack+Developer;Backend+Systems+%26+Cloud-Focused+Engineer;Incoming+Amazon+SDE+Intern;Former+Software+Engineering+Intern+%40+Ooneex;Building+real-time+apps+with+Bun%2C+Hono%2C+and+Postgres" alt=""/>
 
 </div>
 
@@ -14,24 +14,11 @@
 
 ## About Me
 
-```typescript
-const razvan = {
-  role: "CS Student - Incoming SDE Intern @ Amazon",
-  experience: ["Software Engineering Intern @ Ooneex"],
-  strengths: [
-    "Full-Stack Product Development",
-    "Backend Architecture & API Design",
-    "Real-Time Systems",
-    "Cloud-Native Delivery",
-  ],
-  currentlyBuilding: [
-    "AI-assisted career tooling",
-    "Real-time community platforms",
-    "Developer productivity tools",
-  ],
-  lookingFor: "Open-source collaborations and technically ambitious side projects",
-};
-```
+- **CS student** focused on full-stack engineering, backend systems, and cloud-native development.
+- **Incoming SDE Intern at Amazon**, with previous software engineering internship experience at **Ooneex**.
+- **I build** product-minded apps with React, Bun, Hono, PostgreSQL, auth, APIs, and clean data models.
+- **I like working on** real-time systems, AI-assisted tooling, developer productivity, and technically ambitious side projects.
+- **Open to** open-source collaboration, practical backend work, and projects where thoughtful engineering actually matters.
 
 ---
 
@@ -40,44 +27,44 @@ const razvan = {
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-7C3AED?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-6D28D9?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-5B21B6?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-4C1D95?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-9333EA?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-7E22CE?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-6B21A8?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-581C87?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4C1D95?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://img.shields.io/badge/React-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-5B21B6?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-6D28D9?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-4C1D95?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/HeroUI-7C3AED?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-9333EA?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-7E22CE?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-6B21A8?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-581C87?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/HeroUI-4C1D95?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
 ### Backend & Platform
 
 <p>
-  <img src="https://img.shields.io/badge/Bun-7C3AED?style=for-the-badge&logo=bun&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hono-5B21B6?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-6D28D9?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-4C1D95?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Drizzle-7C3AED?style=for-the-badge&logo=drizzle&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeORM-5B21B6?style=for-the-badge&logo=typeorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/BetterAuth-6D28D9?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bun-9333EA?style=for-the-badge&logo=bun&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hono-7E22CE?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-6B21A8?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-581C87?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Drizzle-4C1D95?style=for-the-badge&logo=drizzle&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeORM-9333EA?style=for-the-badge&logo=typeorm&logoColor=white" />
+  <img src="https://img.shields.io/badge/BetterAuth-7E22CE?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 ### Data, DevOps & Cloud
 
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-7C3AED?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-5B21B6?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-6D28D9?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-4C1D95?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-5B21B6?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-9333EA?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-7E22CE?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-6B21A8?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-581C87?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-4C1D95?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-9333EA?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
@@ -97,15 +84,15 @@ const razvan = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Razvan200526&show_icons=true&theme=tokyonight&icon_color=7C3AED&title_color=7C3AED&border_color=7C3AED&hide_border=false&bg_color=0d1117&text_color=d8b4fe" height="165"/>
+<img src="https://ghstats.dev/api/card?username=Razvan200526&amp;theme=tokyonight&amp;title_color=A855F7&amp;icon_color=C084FC&amp;border_color=7E22CE&amp;bg=15001F&amp;text=E9D5FF&amp;hide_border=false" height="165" alt=""/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razvan200526&layout=compact&theme=tokyonight&title_color=7C3AED&border_color=7C3AED&bg_color=0d1117&text_color=d8b4fe" height="165"/>
+<img src="https://ghstats.dev/api/langs?username=Razvan200526&amp;layout=bar&amp;theme=tokyonight&amp;max_langs=8&amp;title_color=A855F7&amp;border_color=7E22CE&amp;bg=15001F&amp;text=E9D5FF" height="165" alt=""/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Razvan200526&theme=tokyonight&ring=7C3AED&fire=a855f7&currStreakLabel=7C3AED&sideLabels=d8b4fe&dates=d8b4fe&border=7C3AED" height="165"/>
+<img src="https://streak-stats.demolab.com?user=Razvan200526&amp;theme=tokyonight&amp;background=15001F&amp;ring=A855F7&amp;fire=C084FC&amp;currStreakLabel=A855F7&amp;sideLabels=E9D5FF&amp;dates=D8B4FE&amp;border=7E22CE" height="165" alt=""/>
 
 </div>
 
@@ -130,6 +117,6 @@ const razvan = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1E063A,55:3B0764,100:581C87&amp;height=100&amp;section=footer" width="100%" alt=""/>
 
 </div>
