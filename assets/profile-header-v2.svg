@@ -1,0 +1,25 @@
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Software engineering profile header</title>
+  <desc id="desc">Minimal dark violet banner about building backend systems and full-stack products.</desc>
+  <defs>
+    <linearGradient id="background" x1="40" y1="20" x2="1240" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10131A" />
+      <stop offset="1" stop-color="#171126" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="240" rx="24" fill="url(#background)" />
+  <rect x="1" y="1" width="1278" height="238" rx="23" stroke="#4C1D95" stroke-width="2" />
+  <rect x="48" y="48" width="6" height="144" rx="3" fill="#7C3AED" />
+
+  <text x="84" y="80" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">SOFTWARE ENGINEER / TYPESCRIPT / BACKEND SYSTEMS</text>
+  <text x="84" y="132" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Backend depth. Product thinking.</text>
+  <text x="84" y="174" fill="#C9C5D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Building full-stack products, real-time systems, and developer tools.</text>
+
+  <g transform="translate(1024 68)">
+    <rect width="168" height="104" rx="16" fill="#131620" stroke="#4C1D95" />
+    <path d="M52 32L28 52L52 72" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M116 32L140 52L116 72" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M96 24L72 80" stroke="#7C3AED" stroke-width="5" stroke-linecap="round" />
+  </g>
+</svg>
