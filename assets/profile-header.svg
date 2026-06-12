@@ -1,44 +1,25 @@
-<svg width="1280" height="320" viewBox="0 0 1280 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1280" height="240" viewBox="0 0 1280 240" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Profile header</title>
-  <desc id="desc">Minimal violet GitHub profile banner focused on TypeScript, backend systems, and product engineering.</desc>
+  <desc id="desc">Minimal dark violet banner about building backend systems and full-stack products.</desc>
   <defs>
-    <linearGradient id="outer" x1="80" y1="40" x2="1200" y2="280" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#151022" />
-      <stop offset="1" stop-color="#4C1D95" />
+    <linearGradient id="background" x1="40" y1="20" x2="1240" y2="220" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#10131A" />
+      <stop offset="1" stop-color="#171126" />
     </linearGradient>
   </defs>
 
-  <rect width="1280" height="320" rx="32" fill="#10131A" />
-  <rect x="20" y="20" width="1240" height="280" rx="28" fill="url(#outer)" stroke="#1A1835" />
+  <rect width="1280" height="240" rx="24" fill="url(#background)" />
+  <rect x="1" y="1" width="1278" height="238" rx="23" stroke="#4C1D95" stroke-width="2" />
+  <rect x="48" y="48" width="6" height="144" rx="3" fill="#7C3AED" />
 
-  <rect x="64" y="64" width="184" height="36" rx="18" fill="#10131A" stroke="#C4B5FD" />
-  <text x="156" y="87" fill="#E4E3EF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600" text-anchor="middle">TypeScript-first systems</text>
+  <text x="84" y="80" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="600">SOFTWARE ENGINEER / TYPESCRIPT / BACKEND SYSTEMS</text>
+  <text x="84" y="132" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">Backend depth. Product thinking.</text>
+  <text x="84" y="174" fill="#C9C5D4" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400">Building full-stack products, real-time systems, and developer tools.</text>
 
-  <text x="64" y="148" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="700">
-    <tspan x="64" dy="0">Building thoughtful full-stack</tspan>
-    <tspan x="64" dy="56">products with backend depth.</tspan>
-  </text>
-
-  <text x="64" y="246" fill="#DDD6FE" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="500">
-    <tspan x="64" dy="0">Real-time apps, developer tooling, and cloud-backed architecture</tspan>
-    <tspan x="64" dy="30">centered on Bun, Hono, React, and PostgreSQL.</tspan>
-  </text>
-
-  <rect x="904" y="60" width="292" height="200" rx="22" fill="#10131A" stroke="#C4B5FD" />
-  <text x="940" y="100" fill="#C4B5FD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="600">Current focus</text>
-
-  <rect x="940" y="120" width="220" height="34" rx="17" fill="#161A24" stroke="#1A1835" />
-  <text x="958" y="142" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Backend architecture</text>
-
-  <rect x="940" y="164" width="220" height="34" rx="17" fill="#161A24" stroke="#1A1835" />
-  <text x="958" y="186" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Realtime product flows</text>
-
-  <rect x="940" y="208" width="220" height="34" rx="17" fill="#161A24" stroke="#1A1835" />
-  <text x="958" y="230" fill="#FEFEFD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="500">Developer tooling</text>
-
-  <path d="M860 72C826 104 790 122 740 134" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" />
-  <path d="M836 238C792 218 758 194 724 156" stroke="#C4B5FD" stroke-width="2" stroke-linecap="round" />
-  <circle cx="714" cy="148" r="10" fill="#C4B5FD" />
-  <circle cx="786" cy="118" r="6" fill="#C4B5FD" />
-  <circle cx="808" cy="204" r="8" fill="#C4B5FD" />
+  <g transform="translate(1024 68)">
+    <rect width="168" height="104" rx="16" fill="#131620" stroke="#4C1D95" />
+    <path d="M52 32L28 52L52 72" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M116 32L140 52L116 72" stroke="#C4B5FD" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M96 24L72 80" stroke="#7C3AED" stroke-width="5" stroke-linecap="round" />
+  </g>
 </svg>
