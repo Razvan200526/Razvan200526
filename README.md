@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Violet profile banner describing a TypeScript-focused full-stack engineer" />
+  <img src="./assets/profile-header-v2.svg" width="100%" alt="Dark violet profile banner describing a TypeScript-focused software engineer" />
 </p>
 
 <p align="center">
