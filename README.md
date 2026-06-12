@@ -8,6 +8,11 @@
   Most of my work lives where Bun, Hono, React, and PostgreSQL meet clean data models, auth, and cloud infrastructure.
 </p>
 
+## Experience
+
+- **Amazon** - Software Development Engineer Intern *(Summer 2025)*
+- **[Ooneex](https://www.ooneex.com/en/)** - Software Engineering Intern
+
 ## Selected Projects
 
 <table>
@@ -59,7 +64,13 @@
   <img src="https://img.shields.io/badge/Cloudflare-4C1D95?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-## Experience
+## GitHub Stats
 
-- Amazon - SDE Intern (Summer 2025)
-- Ooneex - Software Engineering Intern
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Razvan200526&amp;show_icons=true&amp;hide_border=true&amp;bg_color=10131A&amp;title_color=C4B5FD&amp;text_color=E5E7EB&amp;icon_color=7C3AED&amp;rank_icon=github" height="165" alt="Razvan's GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razvan200526&amp;layout=compact&amp;hide=javascript&amp;hide_border=true&amp;bg_color=10131A&amp;title_color=C4B5FD&amp;text_color=E5E7EB" height="165" alt="Razvan's most used languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Razvan200526&amp;hide_border=true&amp;background=10131A&amp;ring=7C3AED&amp;fire=C4B5FD&amp;currStreakLabel=C4B5FD&amp;sideLabels=E5E7EB&amp;currStreakNum=FEFEFD&amp;sideNums=FEFEFD&amp;dates=8B949E" height="165" alt="Razvan's GitHub contribution streak" />
+</p>
