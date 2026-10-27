@@ -1,4 +1,4 @@
-# Hey, I'm Răzvan! 👋
+# Hey, I'm Răzvan! 
 
 I'm a **Software Development Engineer I (SDE-1) at Amazon** and a Computer Science student in Iași, Romania.
 
