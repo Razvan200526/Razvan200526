@@ -13,6 +13,8 @@ I'm passionate about **new technologies** and **solving complex problems**. I en
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
   &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java" />
+  &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" width="42" height="42" alt="Bun" title="Bun" />
   &nbsp;
   <img src="https://cdn.simpleicons.org/hono/FF6A3D" width="42" height="42" alt="Hono" title="Hono" />
